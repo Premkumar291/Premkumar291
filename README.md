@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Premkumar%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20RAG%20%26%20LLM%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -19,7 +18,7 @@
 
 ```ts
 const premkumar = {
-  role        : "Full Stack Developer",
+  role        : "Full Stack Developer ",
   location    : "Tamil Nadu, India 🇮🇳",
   education   : "B.Tech IT @ GCE Erode (2023 – Present)",
   focus       : ["MERN Stack", "Real-time Systems", "RAG & LLM Apps"],
@@ -128,7 +127,6 @@ const premkumar = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -175,7 +173,5 @@ const premkumar = {
 </div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6EE7B7&height=120&section=footer" width="100%"/>
 
 </div>
