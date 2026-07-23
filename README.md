@@ -55,7 +55,7 @@ const premkumar = {
 - Semantic search across entire codebases
 - Boundary-aware chunker for accurate retrieval
 - Streams LLM answers with file + line citations
-- **Stack:** Next.js 16 · Pinecone · Cohere · Groq
+- **Stack:** Next.js 16 · Pinecone · Cohere Embeddings · Groq LLM
 
 </td>
 <td width="50%">
